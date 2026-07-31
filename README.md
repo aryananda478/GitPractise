@@ -1,2 +1,3 @@
 #Learning git
-I'm Aryananda
+This is my GitHub Repo
+Cretaed by Aryananda
